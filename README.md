@@ -1,4 +1,3 @@
-https://xxmansoor.github.io/toursim-website/
 
 # React + Vite
 
