@@ -1,6 +1,5 @@
-
-# Ignore dependencies
 node_modules/
 dist/
+build/
 .env
-public/videos/
+*.mp4
